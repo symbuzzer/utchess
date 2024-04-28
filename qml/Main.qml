@@ -66,7 +66,7 @@ MainView {
         httpUserAgent: "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36";
         property alias dataPath: webViewProfile.persistentStoragePath
         dataPath: dataLocation
-        persistentStoragePath: "/home/phablet/.cache/uttestwebapp.symbuzzer/QtWebEngine"
+        persistentStoragePath: "/home/phablet/.cache/UTChess.symbuzzer/QtWebEngine"
 
     }
 
