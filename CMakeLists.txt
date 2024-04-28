@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(UTChess C CXX)
+project(utchess C CXX)
 
 # Automatically create moc files
 set(CMAKE_AUTOMOC ON)
@@ -11,8 +11,8 @@ execute_process(
 )
 set(QT_IMPORTS_DIR "lib/${ARCH_TRIPLET}")
 
-set(PROJECT_NAME "UTChess")
-set(FULL_PROJECT_NAME "UTChess.symbuzzer")
+set(PROJECT_NAME "utchess")
+set(FULL_PROJECT_NAME "utchess.symbuzzer")
 set(DATA_DIR /)
 set(DESKTOP_FILE_NAME ${PROJECT_NAME}.desktop)
 
