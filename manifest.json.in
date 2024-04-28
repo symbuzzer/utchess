@@ -1,12 +1,12 @@
 {
-    "name": "UTChess.symbuzzer",
+    "name": "utchess.symbuzzer",
     "description": "Chess for Ubuntu Touch",
     "architecture": "@CLICK_ARCH@",
-    "title": "UTChess",
+    "title": "utchess",
     "hooks": {
-        "UTChess": {
-            "apparmor": "UTChess.apparmor",
-            "desktop":  "UTChess.desktop"
+        "utchess": {
+            "apparmor": "utchess.apparmor",
+            "desktop":  "utchess.desktop"
         }
     },
     "version": "1.0.0",
