@@ -15,7 +15,7 @@
  */
 
 /*
- * Modified for UTChess app by Ali BEYAZ under GNU GPL v3
+ * Modified for utchess app by Ali BEYAZ under GNU GPL v3
  */
 
 
@@ -32,7 +32,7 @@ import QtWebEngine 1.7
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'UTChess.symbuzzer'
+    applicationName: 'utchess.symbuzzer'
     theme.name: "Lomiri.Components.Themes.SuruDark"
     automaticOrientation: false
 
@@ -44,7 +44,7 @@ MainView {
 
         header: PageHeader {
             id: header
-            title: i18n.tr('UTChess')
+            title: i18n.tr('utchess')
         }
 
     WebEngineView {
@@ -66,7 +66,7 @@ MainView {
         httpUserAgent: "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36";
         property alias dataPath: webViewProfile.persistentStoragePath
         dataPath: dataLocation
-        persistentStoragePath: "/home/phablet/.cache/UTChess.symbuzzer/QtWebEngine"
+        persistentStoragePath: "/home/phablet/.cache/utchess.symbuzzer/QtWebEngine"
 
     }
 
