@@ -1,15 +1,15 @@
 {
-    "name": "uttestwebapp.symbuzzer",
-    "description": "Simple test web app for Ubuntu Touch",
+    "name": "UTChess.symbuzzer",
+    "description": "Chess for Ubuntu Touch",
     "architecture": "@CLICK_ARCH@",
-    "title": "uttestwebapp",
+    "title": "UTChess",
     "hooks": {
         "uttestwebapp": {
-            "apparmor": "uttestwebapp.apparmor",
-            "desktop":  "uttestwebapp.desktop"
+            "apparmor": "UTChess.apparmor",
+            "desktop":  "UTChess.desktop"
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.0",
     "maintainer": "Ali BEYAZ <alipolatbeyaz@gmail.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
