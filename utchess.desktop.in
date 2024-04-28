@@ -1,5 +1,5 @@
 [Desktop Entry]
-_Name=UTChess
+_Name=utchess
 Exec=qmlscene %U qml/Main.qml
 Icon=assets/logo.png
 Terminal=false
