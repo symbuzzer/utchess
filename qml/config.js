@@ -1,3 +1,3 @@
 
 // Common Settings
-var MobileUrl = "https://avalibeyaz.com/browser/";
+var MobileUrl = "https://symbuzzer.github.io/Chess/";
