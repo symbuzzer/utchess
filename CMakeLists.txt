@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(uttestwebapp C CXX)
+project(UTChess C CXX)
 
 # Automatically create moc files
 set(CMAKE_AUTOMOC ON)
