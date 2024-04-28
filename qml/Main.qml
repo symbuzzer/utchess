@@ -15,7 +15,7 @@
  */
 
 /*
- * Modified for uttestwebapp app by Ali BEYAZ under GNU GPL v3
+ * Modified for UTChess app by Ali BEYAZ under GNU GPL v3
  */
 
 
@@ -52,7 +52,7 @@ MainView {
         anchors.fill: parent
         width: units.gu(45)
         height: units.gu(75)
-        url: "https://avalibeyaz.com/browser/"
+        url: "https://symbuzzer.github.io/Chess/"
         zoomFactor: 3.0 //scales the webpage on the device, range allowed from 0.25 to 5.0; the default factor is 1.0
         profile: webViewProfile
     }
