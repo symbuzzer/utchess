@@ -32,9 +32,9 @@ import QtWebEngine 1.7
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'uttestwebapp.symbuzzer'
+    applicationName: 'UTChess.symbuzzer'
     theme.name: "Lomiri.Components.Themes.SuruDark"
-    automaticOrientation: true
+    automaticOrientation: false
 
     width: units.gu(45)
     height: units.gu(75)
@@ -44,7 +44,7 @@ MainView {
 
         header: PageHeader {
             id: header
-            title: i18n.tr('uttestwebapp')
+            title: i18n.tr('UTChess')
         }
 
     WebEngineView {
