@@ -34,15 +34,9 @@ MainView {
     objectName: 'mainView'
     applicationName: 'utchess.symbuzzer'
     theme.name: "Lomiri.Components.Themes.SuruDark"
-    automaticOrientation: false
 
     width: units.gu(45)
     height: units.gu(75)
-
-    Screen.orientationUpdateMask: Qt.LandscapeOrientation |
-                                  Qt.PortraitOrientation |
-                                  Qt.InvertedLandscapeOrientation |
-                                  Qt.InvertedPortraitOrientation
 
     Page {
         anchors.fill: parent
