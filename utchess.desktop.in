@@ -6,3 +6,4 @@ Terminal=false
 Type=Application
 X-Lomiri-Touch=true
 X-Lomiri-Splash-Color=#404040
+X-Ubuntu-Supported-Orientations=portrait
