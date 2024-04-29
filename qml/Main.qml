@@ -35,6 +35,7 @@ MainView {
     applicationName: 'utchess.symbuzzer'
     theme.name: "Lomiri.Components.Themes.SuruDark"
     automaticOrientation: false
+    orientation: Qt.PortraitOrientation
 
     width: units.gu(45)
     height: units.gu(75)
