@@ -1,3 +1,6 @@
+## v1.0.3
+- Removed App Title section
+
 ## v1.0.2
 - Fixed Title background for light theme  
   
