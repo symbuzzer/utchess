@@ -9,7 +9,7 @@
             "desktop":  "utchess.desktop"
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "maintainer": "Ali BEYAZ <alipolatbeyaz@gmail.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
