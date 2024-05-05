@@ -5,5 +5,5 @@ Icon=assets/logo.png
 Terminal=false
 Type=Application
 X-Lomiri-Touch=true
-X-Lomiri-Splash-Color=#404040
+X-Lomiri-Splash-Color=#49A220
 X-Ubuntu-Supported-Orientations=portrait
