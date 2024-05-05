@@ -1,3 +1,6 @@
+## v1.0.4
+- Changed splash screen color
+
 ## v1.0.3
 - Removed App Title section
 
