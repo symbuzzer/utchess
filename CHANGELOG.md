@@ -1,5 +1,6 @@
 ## v1.0.5
 - Removed unnecessary lines from pot file
+- Deleted qml/config.js
 
 ## v1.0.4
 - Changed splash screen color
