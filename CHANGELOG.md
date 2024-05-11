@@ -1,3 +1,6 @@
+## v1.0.5
+- Removed unnecessary lines from pot file
+
 ## v1.0.4
 - Changed splash screen color
 
