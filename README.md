@@ -7,7 +7,7 @@ Chess for Ubuntu Touch
 - Chess HTML page is from [Chess](https://github.com/Ishaan35/Chess) developed by [Ishaan Patel aka Ishaan35 ](https://github.com/Ishaan35). It has been modified quite heavily by me to make it compatible with Ubuntu Touch. For source code: [symbuzzer/Chess](https://github.com/symbuzzer/Chess) License is [already asked](https://github.com/Ishaan35/Chess/issues/2) to him.
 
 ## Changelog
-[CHANGELOG.md](https://github.com/symbuzzer/utchess/blob/main/CHANGELOG.md)
+[CHANGELOG.md](https://github.com/symbuzzer/utchess/blob/master/CHANGELOG.md)
 
 ## Download
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/utchess.symbuzzer)
